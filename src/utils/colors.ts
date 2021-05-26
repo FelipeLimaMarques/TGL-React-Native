@@ -1,0 +1,6 @@
+export const DARK_GRAY = '#707070'
+export const LIGHT_GRAY = '#9D9D9D'
+export const BRIGHT_GRAY = '#C1C1C1'
+export const CANE = '#B5C401'
+export const GRAY_BORDER = '#DDDDDD'
+export const BUTTON_NUMBER = '#ADC0C4'
